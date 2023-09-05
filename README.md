@@ -28,8 +28,8 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   <tr>
     <td>12.09. (room 509)</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/exampleRmarkdown.pdf">R Markdown</a><br>
-      <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/tidyverse.md">tidyverse</a><br>
-      <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/visualization.md">visualization</a>
+      tidyverse<br>
+      visualization
     </td>
     <td></td>
     <td></td>
@@ -37,23 +37,23 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     </td>
   </tr>
     <td>03.10. (room 509)</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/strings.Rmd">strings</a><br>
-  <a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/lists.Rmd">lists</a></td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/HW2.md">HW2</a></td>
+    <td>strings<br>
+ lists</td>
+    <td>Assignment 1</td>
     <td>due 23.09</td>
     <td></td>
    </tr>
     <tr>
     <td>13.10. (room 402)</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/25.09">functions</a></td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/HW3.md">HW3</a></td>
-    <td>due 06.10</td>
+    <td>functions</td>
+    <td></td>
+    <td></td>
     <td>
   </td>
   </tr>
     <tr>
     <td>02.11.?</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/30.09">practice</a>
+    <td>practice
   </td>
     <td></td>
     <td></td>
@@ -61,18 +61,18 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>09.11.?</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">tidyverse 2</a>
+    <td>tidyverse 2
   </td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
-    <td><b>Final Project is due 20.10</b></td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
     <tr>
     <td>16.11.?</td>
     <td>
-    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/09.10">working with texts</a>
+    working with texts
   </td>
-    <td></td>
+    <td>Assignmnet 2</td>
   <td></td>
     <td><a href="https://regexone.com/lesson/introduction_abcs">RegEx Tutorial</a></td>
   </tr>
