@@ -406,7 +406,7 @@ got <- read.csv("character-deaths.csv")
 
 got <- read.csv("/Users/Username/Some_Folder/character-deaths.csv") #to provide the full path to the file
 
-got <- read.csv("https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/04.09/character-deaths.csv") #to read from the internet
+got <- read.csv("https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/week%201/character-deaths.csv") #to read from the internet
 ```
 Let's start! First step, reading file into a variable:
 
