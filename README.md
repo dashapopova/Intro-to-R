@@ -27,7 +27,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
   <tr>
     <td>12.09. (room 509)</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/exampleRmarkdown.pdf">R Markdown</a><br>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/week%202/exampleRmarkdown.Rmd">R Markdown</a><br>
       tidyverse<br>
       visualization
     </td>
