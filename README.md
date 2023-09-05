@@ -31,8 +31,8 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
       <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/tidyverse.md">tidyverse</a><br>
       <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/visualization.md">visualization</a>
     </td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW1.md">HW1</a></td>
-    <td>due 15.09</td>
+    <td></td>
+    <td></td>
     <td>
     </td>
   </tr>
@@ -78,11 +78,10 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>23.11.?</td>
-    <td>
-      Final project presentations
+    <td>   
   </td>
     <td></td>
-    <td><b>Final Project is due 20.10</b>:triumph:</td>
+    <td></td>
     <td>https://r4ds.had.co.nz/index.html<br>
   https://www.datamentor.io/r-programming/s3-class/<br>
   https://www.cyclismo.org/tutorial/R/s3Classes.html</td>
