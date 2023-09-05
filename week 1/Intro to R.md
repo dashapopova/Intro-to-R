@@ -395,7 +395,7 @@ df[df$age < mean(df$age), 'lovesR']
 ```
 ### Playing with some real data
 
-[Our data](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/04.09/character-deaths.csv) is derived from A Song of Ice and Fire by George R. R. Martin
+[Our data](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/week%201/character-deaths.csv) is derived from A Song of Ice and Fire by George R. R. Martin
 
 ```
 getwd() #to determine your workdirectory
