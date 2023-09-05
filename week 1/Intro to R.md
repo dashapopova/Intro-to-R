@@ -365,8 +365,6 @@ class(namedl[[1]])
 namedl[['age']]
 ```
 
-[illustration](https://twitter.com/hadleywickham/status/643381054758363136)
-
 ### Data.frame
 
 The most important data type
