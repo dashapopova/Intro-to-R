@@ -19,7 +19,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
    <tr>
     <td>05.09. (room 509)</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/week 1/Intro%20to%20R.md">Intro to R</a><br>
-    <a href="https://github.com/dashapopova/Intro-to-R/blob/main/week 1/Markdown.md">Markdown</a></td>
+    <a href="https://github.com/dashapopova/Intro-to-R/blob/main/week 1/markdown.md">Markdown</a></td>
     <td></td>
     <td></td>
     <td>
