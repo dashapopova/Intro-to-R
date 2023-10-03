@@ -2,7 +2,7 @@
 
 Due October 10th, 21:00, for max. 8 points
 
-2 bonus points if completed in-class, October 3rd, by 20:50
+2 bonus points if completed in-class, October 3rd, by 21:00
 
 6 points max. for late submission, Oct 17th, by 21:00
 
