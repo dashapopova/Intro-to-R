@@ -10,7 +10,7 @@ Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html form
 
 ### Task 1 -- 4 points
 
-Take the data [about the UK pubs](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/assignment1/UK_pubs.csv)
+Take the data [about the UK pubs](https://github.com/dashapopova/Intro-to-R/blob/main/assignment1/pubs.png)
 
 Plot the 40 or 50 most frequent names of pubs in the UK: the x-axis is for the number of symbols in the pub name, the y-axis is for the number of bars with the same name.
 
