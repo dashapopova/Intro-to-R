@@ -39,7 +39,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     <td>03.10. (room 509)</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/week3/strings_upd.Rmd">strings</a><br>
   <a href="https://github.com/dashapopova/Intro-to-R/blob/main/week3/lists_upd.Rmd">lists</a></td>
-    <td>Assignment 1</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/assignment1">Assignment 1</a></td>
     <td>in class for the max. of 10 points, by 10.10 for the max. of 8 points, by 17.10 for the max. of 6 points</td>
     <td></td>
    </tr>
