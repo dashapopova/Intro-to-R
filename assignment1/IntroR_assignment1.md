@@ -30,7 +30,7 @@ You can notice that the values for the sex variable are spelled inconsistently: 
 
 Your goal is to recreate the plot below:
 
-![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/questionnaire.png)
+![](https://github.com/dashapopova/Intro-to-R/blob/main/assignment1/questionnaire.png)
 
 **A hint:**
 
