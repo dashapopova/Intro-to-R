@@ -44,8 +44,8 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     <td></td>
    </tr>
     <tr>
-    <td>13.10. (room 402)</td>
-    <td>functions</td>
+    <td>13.10. (online)</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/week4">functions</a></td>
     <td></td>
     <td></td>
     <td>
