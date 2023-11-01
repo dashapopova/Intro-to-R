@@ -60,16 +60,16 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     <td></td>
   </tr>
     <tr>
-    <td>06.12.</td>
+    <td>06.12. (online)</td>
     <td>working with texts
   </td>
-    <td>working with texts</td>
-    <td></td>
+    <td>Assignment 2</td>
+    <td>in class for the max. of 10 points, by 13.12 for the max. of 8 points, by 20.12 for the max. of 6 points</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>13.12.</td>
+    <td>13.12. (online)</td>
     <td>
 practice
   </td>
@@ -78,7 +78,7 @@ practice
     <td><a href="https://regexone.com/lesson/introduction_abcs">RegEx Tutorial</a></td>
   </tr>
     <tr>
-    <td>20.12.</td>
+    <td>20.12. (online)</td>
     <td> practice  
   </td>
     <td></td>
