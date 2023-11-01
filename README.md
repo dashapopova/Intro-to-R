@@ -52,15 +52,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </td>
   </tr>
     <tr>
-    <td>02.11.?</td>
-    <td>practice
-  </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>09.11.?</td>
+    <td>29.11. (online)</td>
     <td>tidyverse 2
   </td>
     <td></td>
@@ -68,17 +60,26 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     <td></td>
   </tr>
     <tr>
-    <td>16.11.?</td>
-    <td>
-    working with texts
+    <td>06.12.</td>
+    <td>working with texts
   </td>
-    <td>Assignment 2</td>
+    <td>working with texts</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>13.12.</td>
+    <td>
+practice
+  </td>
+    <td></td>
   <td></td>
     <td><a href="https://regexone.com/lesson/introduction_abcs">RegEx Tutorial</a></td>
   </tr>
     <tr>
-    <td>23.11.?</td>
-    <td>   
+    <td>20.12.</td>
+    <td> practice  
   </td>
     <td></td>
     <td></td>
