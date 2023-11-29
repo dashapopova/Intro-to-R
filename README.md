@@ -53,7 +53,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>29.11. (online)</td>
-    <td>tidyverse 2
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/week5">tidyverse 2</a>
   </td>
     <td></td>
     <td></td>
@@ -61,7 +61,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>06.12. (online)</td>
-    <td>working with texts
+    <td>working on the assignment 2
   </td>
     <td>Assignment 2</td>
     <td>in class for the max. of 10 points, by 13.12 for the max. of 8 points, by 20.12 for the max. of 6 points</td>
@@ -79,7 +79,7 @@ practice
   </tr>
     <tr>
     <td>20.12. (online)</td>
-    <td> practice  
+    <td> working with texts, geodata 
   </td>
     <td></td>
     <td></td>
