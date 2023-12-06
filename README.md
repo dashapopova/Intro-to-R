@@ -61,9 +61,9 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>06.12. (online)</td>
-    <td>working on the assignment 2
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/assignment2/IntroR_Assignment2.md">working on the assignment 2</a>
   </td>
-    <td>Assignment 2</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/assignment2/IntroR_Assignment2.md">Assignment 2</a></td>
     <td>in class for the max. of 10 points, by 13.12 for the max. of 8 points, by 20.12 for the max. of 6 points</td>
     <td></td>
     <td></td>
