@@ -19,7 +19,7 @@ Use the data in the lemma column to compute how many times each character has oc
 
 Then, recreate the plot below (don't forget the source of the data at the bottom of the plot):
 
-![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/dictionary.png)
+![](https://github.com/dashapopova/Intro-to-R/blob/main/assignment2/dictionary.png)
 
 ### Task 2 -- 3 points
 
@@ -29,8 +29,10 @@ Take [here](https://raw.githubusercontent.com/agricolamz/DS_for_DH/master/data/u
 
 Then, recreate the plot below:
 
-![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/temperature.png)
+![](https://github.com/dashapopova/Intro-to-R/blob/main/assignment2/temperature.png)
 
 ### For a 9 or a 10 -- 2 points
 
 Create a bar plot that shows [the number of couples with different eye colors](https://raw.githubusercontent.com/Whereamiactually/R/main/Couple%20Eye%20Colors.csv). The bars must be colored in the male's eye colors and the female's eye colors must be represented as colored patterns on these bars (as shown on the plot below). All colors must match the eye color they represent. Bars should be named according to the plot below. A hint: you can use ```geom_bar_pattern(stat = "identity")``` from the package ```ggpattern```.
+
+![](https://github.com/dashapopova/Intro-to-R/blob/main/assignment2/IntroR_eyecolor.png)
