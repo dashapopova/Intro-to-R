@@ -6,7 +6,7 @@
 
 + create a string vector out of vec5 where numbers bigger than 10 will be replaced by 'big number', the rest of the numbers will be replaced by 'small number'
 
-+ load [the file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv) into a variable ```heroes```
++ load [the file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/week4/heroes_information.csv) into a variable ```heroes```
 
 + Create a new column hair in heroes, where characters with "No Hair" in Hair.color will have "Bold" in the new column, the rest of the cases will have "Hairy" in the news column.
 
