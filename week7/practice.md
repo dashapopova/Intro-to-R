@@ -8,7 +8,7 @@
 
 + load [the file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/week4/heroes_information.csv) into a variable ```heroes```
 
-+ Create a new column hair in heroes, where characters with "No Hair" in Hair.color will have "Bold" in the new column, the rest of the cases will have "Hairy" in the news column.
++ Create a new column hair in heroes, where characters with "No Hair" in Hair.color will have "Bold" in the new column, the rest of the cases will have "Hairy" in the new column.
 
 + Create a new column tall in heroes, where those superheroes that have a number bigger than 190 in the Height column will get "tall" in the new column, those superheroes that have a number smaller than 170 in the Height column will get "short" in the new column, and "middle" in all the other cases.
 
