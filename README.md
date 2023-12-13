@@ -71,7 +71,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
     <tr>
     <td>13.12. (online)</td>
     <td>
-practice
+<a href="https://github.com/dashapopova/Intro-to-R/tree/main/week7">practice</a>
   </td>
     <td></td>
   <td></td>
