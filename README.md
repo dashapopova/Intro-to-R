@@ -79,7 +79,7 @@ Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html) and o
   </tr>
     <tr>
     <td>20.12. (online)</td>
-    <td> working with texts, geodata 
+    <td> <a href="https://github.com/dashapopova/Intro-to-R/tree/main/week8">working with texts, geodata</a> 
   </td>
     <td></td>
     <td></td>
